@@ -22,4 +22,11 @@ https://medium.com/nerd-for-tech/deploy-wso2-api-manager-with-elk-stack-and-prom
 
 # Tanzu
 
+## TAP
+
+### Supply Chain Choreographer
+
+- https://tanzu.vmware.com/developer/tv/tanzu-tuesdays/0087/
+- https://docs.vmware.com/en/VMware-Tanzu-Application-Platform/1.6/tap/scc-delivery-with-argo.html
+
 # Kuberentes
