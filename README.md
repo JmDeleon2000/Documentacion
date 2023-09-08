@@ -30,3 +30,11 @@ https://medium.com/nerd-for-tech/deploy-wso2-api-manager-with-elk-stack-and-prom
 - https://docs.vmware.com/en/VMware-Tanzu-Application-Platform/1.6/tap/scc-delivery-with-argo.html
 
 # Kuberentes
+
+## Secrets
+
+- https://tanzu.vmware.com/developer/guides/platform-security-secret-management/
+
+### Vault
+
+- https://developer.hashicorp.com/vault/docs/platform/k8s#high-level-comparison-of-integrations
