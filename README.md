@@ -65,3 +65,13 @@ https://www.w3.org/2011/gld/wiki/5_Star_Linked_Data
 
 ## Dual-track AGILE
 https://www.productboard.com/glossary/dual-track-agile/
+
+# Herramientas y frameworks más allá de aplicaciones modernas
+
+## CKAN
+https://docs.ckan.org/en/2.10/user-guide.html
+
+## SQLite
+
+### Escenarios de uso
+https://www.sqlite.org/whentouse.html
