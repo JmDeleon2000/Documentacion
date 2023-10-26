@@ -75,3 +75,13 @@ https://docs.ckan.org/en/2.10/user-guide.html
 
 ### Escenarios de uso
 https://www.sqlite.org/whentouse.html
+
+# Serverless
+
+## Knative when you can, Kubernetes when you must
+https://www.youtube.com/watch?v=0IwysONytqc
+
+## Nodeless
+
+### Karpenter
+https://karpenter.sh/
