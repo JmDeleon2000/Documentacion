@@ -79,6 +79,9 @@ https://docs.ckan.org/en/2.10/user-guide.html
 ### Escenarios de uso
 https://www.sqlite.org/whentouse.html
 
+## C4 Model
+https://c4model.com/
+
 # Serverless
 
 ## Knative when you can, Kubernetes when you must
