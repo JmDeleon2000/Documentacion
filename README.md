@@ -66,6 +66,9 @@ https://www.w3.org/2011/gld/wiki/5_Star_Linked_Data
 ## Dual-track AGILE
 https://www.productboard.com/glossary/dual-track-agile/
 
+## DORA Core Model
+https://dora.dev/research/
+
 # Herramientas y frameworks más allá de aplicaciones modernas
 
 ## CKAN
