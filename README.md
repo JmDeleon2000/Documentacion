@@ -82,6 +82,9 @@ https://www.sqlite.org/whentouse.html
 ## C4 Model
 https://c4model.com/
 
+## Inkscape (editor de vector graphics, para apoyo con desarrollo de front-ends)
+https://inkscape.org/
+
 # Serverless
 
 ## Knative when you can, Kubernetes when you must
