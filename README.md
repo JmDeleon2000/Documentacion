@@ -53,6 +53,11 @@ https://medium.com/nerd-for-tech/deploy-wso2-api-manager-with-elk-stack-and-prom
 
 - https://developer.hashicorp.com/vault/docs/platform/k8s#high-level-comparison-of-integrations
 
+## Tekton
+
+### Tekton dashboard
+- https://github.com/tektoncd/dashboard
+
 # Project management
 
 ## Redmine
