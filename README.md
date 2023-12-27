@@ -99,3 +99,6 @@ https://www.youtube.com/watch?v=0IwysONytqc
 
 ### Karpenter
 https://karpenter.sh/
+
+## Juego para aprender sobre XSS (cross-site scripting)
+https://xss-game.appspot.com/
