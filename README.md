@@ -74,6 +74,14 @@ https://www.productboard.com/glossary/dual-track-agile/
 ## DORA Core Model
 https://dora.dev/research/
 
+## REST
+
+### Artículo de intro
+https://restfulapi.net/
+
+### Definición REST (Fielding, 2000)
+https://ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm
+
 # Herramientas y frameworks más allá de aplicaciones modernas
 
 ## CKAN
