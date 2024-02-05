@@ -82,6 +82,9 @@ https://restfulapi.net/
 ### Definición REST (Fielding, 2000)
 https://ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm
 
+### API Stylebook
+https://apistylebook.com/design/guidelines/
+
 # Herramientas y frameworks más allá de aplicaciones modernas
 
 ## CKAN
